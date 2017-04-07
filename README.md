@@ -12,7 +12,7 @@ Validate inputs against pre-defined data schema
 
 ### Basic Usage
 
-Create an `DynamicSchema` instance then use it to validate objects, return value include an array of errors not includes `errors`
+Create an `DynamicSchema` instance then use it to validate objects, return value includes an array of `errors`
 
 ##### Example
 
